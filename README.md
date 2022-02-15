@@ -1,11 +1,11 @@
 # psptk5
 
-学习研究对象：PSP 太阁立志传 5(TAIKOU RISSHIDEN V) ULJM-05525|303A88BDAC0128BC|0001|G
-学习目的：从 DATA.BIN 文件中提取所有的文件
+- 学习研究对象：PSP 太阁立志传 5(TAIKOU RISSHIDEN V) ULJM-05525|303A88BDAC0128BC|0001|G
+- 学习目的：从 DATA.BIN 文件中提取所有的文件
 
 ## 使用方法
 
-psptk5 extract [path of DATA.BIN] [path of EBOOT.BIN] [dir to extract]
+psptk5 extract [path of DATA.BIN] [path of EBOOT.BIN] [dir to extract]。
 其中 EBOOT.BIN 要先解成 ELF，可以使用 deceboot.exe (v0.3)。
 
 ## 学习目标
